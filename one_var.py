@@ -1,3 +1,5 @@
+#Has issues with sympy
+
 from sympy import symbols, Eq, solve, Rational
 
 # Example equation: (1/3)x + (1/2) = (3/4)
